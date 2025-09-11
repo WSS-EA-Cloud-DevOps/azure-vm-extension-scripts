@@ -5,4 +5,4 @@
 
 This repository contains Bash scripts that are executed after a VM deployment.
 
-Scripts are downloaded directly from a new VM and executed.
+Scripts are downloaded directly from **master branch** by a new VM and executed.
